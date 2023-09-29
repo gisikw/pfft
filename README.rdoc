@@ -1,0 +1,6 @@
+= pfft
+
+Personal Finance Fancy Tools
+
+:include:pfft.rdoc
+

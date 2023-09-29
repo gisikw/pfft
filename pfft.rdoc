@@ -1,0 +1,5 @@
+= pfft
+
+Generate this with
+    pfft _doc
+After you have described your command line interface
