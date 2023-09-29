@@ -1,0 +1,3 @@
+Add a setup task that provisions .pfft and creates a .pfft/accounts.yml
+Add snapshot command: prompt the user to enter balances for all accounts
+Add summary command that show assets, liabilities, net worth for a given snapshot
